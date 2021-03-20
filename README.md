@@ -1,18 +1,13 @@
-# dotnet-vaquinha-tests
-Projeto Base para Testes - .Net Core  
+# Projeto Vaquinha para doações  :cow:
 
-## Digital Innovation One
+Projeto base para TDD (Test Driven Development), implementado algumas funções no curso da DIO(Digital Innovation One).
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+## Instalações
+É necessário ter o .NET instalado, no Vscode ter as extensões C#, e C# extension, e após isso dar um dotnet build no terminal.
 
-## Eliézer Zarpelão
-[GitHub Timeline](https://elizarp.github.io/timeline/)  
-[Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
-[Github](https://github.com/elizarp) 
-
-## Marcos Freire
-[Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
-[Github](https://github.com/marcosfreire) 
-
-## Slides
-[Slides em PDF](TesteNetCore.pdf)
+### Ferramentas e técnilogias utilizadas:
+- C# 
+- .NET MVC
+- JavaScript
+- HTML
+- CSS
